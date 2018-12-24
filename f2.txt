@@ -2,3 +2,5 @@ this is second file
 using fot git 
 edited single line
 adding for merge
+adding for rebase
+adding modified f2 file by user2
