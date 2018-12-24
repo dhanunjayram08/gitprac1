@@ -1,3 +1,4 @@
 this is second file
 using fot git 
 edited single line
+adding for merge
